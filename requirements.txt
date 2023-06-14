@@ -1,0 +1,6 @@
+google-cloud-texttospeech
+requests
+librosa
+requests-testadapter
+flask
+python-dotenv
